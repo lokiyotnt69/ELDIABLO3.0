@@ -6,6 +6,7 @@
 
 
 <item> 
+<parentalblock>true</parentalblock>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV DIGITAL  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://pbs.twimg.com/profile_images/546619676/TVDIGITAL_400x400.png</thumbnail>
@@ -14,6 +15,7 @@
 </item> 
 
 <item> 
+<parentalblock>true</parentalblock>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://pbs.twimg.com/profile_images/3644550369/9dd5770058df92947623fc47aaa889be.jpeg</thumbnail>
