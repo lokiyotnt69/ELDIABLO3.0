@@ -11,20 +11,10 @@
 <fanart>http://www.tucine.com.ar/resources/images/logo.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ZONACINE.xml</externallink>	
 </item>	
-			
-			
-<item>
-<parentalblock>true</parentalblock>
-<title>[COLOR yellow]Movistar Plus[/COLOR][COLOR white] supermospy[/COLOR] [COLOR violet][I](Actualizado 29-07-2017 del creador)[/I][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>http://addons.kodipro.org/canales%20plus.xml</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+		
 
 	
 <item>
-<parentalblock>true</parentalblock>
 <title>[COLOR lime]_**_ [/COLOR][COLOR skyblue] ZONA AMIGOS [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://como-conquistaraunamujer.com/blog/wp-content/uploads/2015/05/friend-zone-danger-600x300.jpg</thumbnail>
@@ -34,7 +24,6 @@
 
 
 <item> 
-
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV DIGITAL  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/K7WtFkL.jpg</thumbnail>
@@ -82,15 +71,16 @@
 <fanart>http://i.imgur.com/vbA4T3d.jpg</fanart>
 <externallink></externallink>	
 </item> 
-		
+	
+	
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] INFANTIL [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/zXOWWpw.jpg</thumbnail>
 <fanart>http://i.imgur.com/zXOWWpw.jpg</fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/zonainfantil.xml</externallink>	
 </item> 
-	
+
 
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LATINA [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
