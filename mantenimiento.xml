@@ -81,7 +81,7 @@
             <listrepeat><![CDATA[
                         <title>[COLOR aquamarine]A&E: [/COLOR][COLOR snow][makelist.param2][/COLOR] </title>
                         <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&amp;order=default</link>
-                        <thumbnail>http://i.imgur.com/w3991nD.jpg</thumbnail>
+                        <thumbnail></thumbnail>
             ]]></listrepeat>
             <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
             <page>https://www.youtube.com/channel/UCLrzNjuHG5h7E-_cKrASgbA</page>
