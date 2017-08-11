@@ -21,3 +21,310 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+
+<item>
+<title>[COLOR yellow]                              Zona Documental[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR aquamarine]Zona:[/COLOR] [COLOR snow]Discovery[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR aquamarine]Discovery: [/COLOR][COLOR snow][makelist.param2][/COLOR] </title>
+                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&amp;order=default</link>
+                        <thumbnail></thumbnail>
+            ]]></listrepeat>
+            <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
+            <page>https://www.youtube.com/channel/UClTDogLGNB4vl9b9mGe0XRA/playlists</page>
+            <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR aquamarine]Zona:[/COLOR] [COLOR snow]National Geographic[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR aquamarine]National Geographic: [/COLOR][COLOR snow][makelist.param2][/COLOR] </title>
+                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&amp;order=default</link>
+                        <thumbnail></thumbnail>
+            ]]></listrepeat>
+            <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
+            <page>https://www.youtube.com/user/NationalGeographicES/playlists</page>
+            <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR aquamarine]Zona:[/COLOR] [COLOR snow]A&E[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR aquamarine]A&E: [/COLOR][COLOR snow][makelist.param2][/COLOR] </title>
+                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&amp;order=default</link>
+                        <thumbnail>http://i.imgur.com/w3991nD.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
+            <page>https://www.youtube.com/channel/UCLrzNjuHG5h7E-_cKrASgbA</page>
+            <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR aquamarine]Zona:[/COLOR] [COLOR snow]C&I (Crímenes e Investigación)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[COLOR aquamarine]C&I (Crímenes e Investigación): [/COLOR][COLOR snow][makelist.param2][/COLOR] </title>
+                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&amp;order=default</link>
+                        <thumbnail></thumbnail>
+            ]]></listrepeat>
+            <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
+            <page>https://www.youtube.com/user/pluses1/playlists</page>
+            <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR yellow]                              Canales En Directo[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR aquamarine]Discovery Channel [/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverychannel.php</sportsdevil>
+<sportsdevil>http://latelete.tv/discovery-channel-en-directo-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/discovery.php</sportsdevil>
+<sportsdevil>http://09stream.com/ver-discovery-channel-en-espanol-online-en-directo-gratis-24h-por-internet/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-discovery-channel-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/ver-discovery-channel-en-directo-y-online-las-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-discovery-channel-en-directo-y-online-las-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/ver-discovery-channel-en-directo-y-online-las-24h/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/discovery-channel-en-vivo-por-internet/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]Discovery Max [/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverymax.php</sportsdevil>
+<sportsdevil>http://latelete.tv/discovery-max-en-directo-por-internet/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/discoverymax.php</sportsdevil>
+<sportsdevil>http://09stream.com/discovery-max-espana-online-en-directo-gratis-24h-por-internet/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-discovery-max-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/discovery-max-espana-online-en-directo-gratis-24-horas/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/discovery-max-espana-online-en-directo-gratis-24-horas/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/discovery-max-espana-online-en-directo-gratis-24-horas/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/discovery-max-espana-online-en-directo-gratis-24h-por-internet/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR aquamarine]National Geographic [/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</sportsdevil>
+<sportsdevil>http://latelete.tv/national-geographic-en-directo-en-castellano-por-internet/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/natgeo.php</sportsdevil>
+<sportsdevil>http://09stream.com/national-geographic-espana-online-en-directo-gratis-24h-por-internet/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-national-geographic-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/ver-national-geographic-en-vivo-gratis-online-las-24-horas-documental-en-directo/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-national-geographic-en-vivo-gratis-online-las-24-horas-documental-en-directo/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/ver-national-geographic-en-vivo-gratis-online-las-24-horas-documental-en-directo/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-national-geographic-espana-online-en-directo-gratis-24h-por-internet/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]National Geographic Wild[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/natgeowill.php</sportsdevil>
+<sportsdevil>http://latelete.tv/nat-geo-wild-en-vivo-en-directo-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/natgeowild.php</sportsdevil>
+<sportsdevil>http://09stream.com/ver-nat-geo-wild-en-vivo-y-en-directo-gratis-24h-por-internet/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-nat-geo-will-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/ver-national-wild-en-vivo-online-gratis-en-directo-las-24-horas-aqui/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-national-wild-en-vivo-online-gratis-en-directo-las-24-horas-aqui/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/ver-national-wild-en-vivo-online-gratis-en-directo-las-24-horas-aqui/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-nat-geo-wild-online-y-gratis-por-internet-las-24h-gratis-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]A&E - Bio[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/bio.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-bio-channel-online-en-directo/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/ae.php</sportsdevil>
+<sportsdevil>http://09stream.com/ver-canal-bio-channel-online-en-directo/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-canal-ae-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/ver-canal-bio-online-y-directo-gratis-las-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-canal-bio-online-y-directo-gratis-las-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/ver-canal-bio-online-y-directo-gratis-las-24h/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-bio-online-y-directo-gratis-las-24h/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]CI (Crimen e Investigacion) [/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/crimeninvestigacion.php</sportsdevil>
+<sportsdevil>http://latelete.tv/crimen-investigacion-online-en-directo/</sportsdevil>
+<sportsdevil>http://09stream.com/crimen-y-investigacion-online-en-vivo-gratis/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-crimen-y-investigacion-en-vivo-online-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-crimen-investigacion-online-en-directo-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]Historia[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/historia.php</sportsdevil>
+<sportsdevil>http://latelete.tv/canal-historia-en-directo-en-castellano-por-internet/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/historia.php</sportsdevil>
+<sportsdevil>http://09stream.com/ver-canal-historia-espana-online-en-directo-gratis-24h-por-internet/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-canal-history-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/ver-canal-historia-online-y-directo-gratis-en-vivo/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-canal-historia-online-y-directo-gratis-en-vivo/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/ver-canal-historia-online-y-directo-gratis-en-vivo/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-historia-en-directo-y-gratis-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]Odisea[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/odisea.php</sportsdevil>
+<sportsdevil>http://latelete.tv/odisea-en-vivo-y-en-directo-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/odisea.php</sportsdevil>
+<sportsdevil>http://09stream.com/ver-odisea-online-en-vivo-gratis-24h-por-internet/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-canal-odisea-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/ver-canal-odisea-gratis-online-y-directo-por-internet/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-canal-odisea-gratis-online-y-directo-por-internet/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/ver-canal-odisea-gratis-online-y-directo-por-internet/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-odisea-gratis-online-y-directo-por-internet/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]Caza y Pesca[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/cazaypesca.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-caza-y-pesca-online-en-directo-gratis/</sportsdevil>
+<sportsdevil>http://09stream.com/ver-caza-y-pesca-online-en-directo-gratis/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-caza-y-pesca-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://verdirectotv.net/ver-caza-y-pesca-en-directo-y-online-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://verdirectotv.com/ver-caza-y-pesca-en-directo-y-online-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://verdirectotv.biz/ver-caza-y-pesca-en-directo-y-online-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-caza-y-pesca-online-y-gratis-las-24h-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]Iberalia [/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/iberaliatv.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-iberalia-tv-online-en-directo-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/iberalia.php</sportsdevil>
+<sportsdevil>http://09stream.com/canal-iberalia-en-directo-gratis-online/</sportsdevil>
+<sportsdevil>http://vertutele.com/canal-iberalia-en-directo-gratis-online/</sportsdevil>
+<sportsdevil></sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]Animal Planet[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/animalplanet.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-animal-planet-en-vivo-por-internet/</sportsdevil>
+<sportsdevil>http://09stream.com/animal-planet-latino-en-vivo-gratis/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-animal-planet-en-vivo-online-gratis-por-internet/</sportsdevil>
+<sportsdevil></sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR aquamarine]Canal Cocina[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/cocina.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-canal-cocina-online-en-directo-gratis/</sportsdevil>
+<sportsdevil>http://tvenganchado.com/cocina.php</sportsdevil>
+<sportsdevil>http://09stream.com/ver-canal-cocina-online-en-directo/</sportsdevil>
+<sportsdevil>http://vertutele.com/ver-canal-cocina-online-en-directo-gratis-por-internet-24h/</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-cocina-online-gratis-las-24h-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR aquamarine]Viajar[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/viajartv.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-canal-viajar-online-y-directo-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://09stream.com/canal-viajar-en-vivo-online-gratis/</sportsdevil>
+<sportsdevil>http://vertutele.com/canal-viajar-en-directo-gratis-online/</sportsdevil>
+<sportsdevil></sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR aquamarine]Decasa[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/decasa.php</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-canal-de-casa-online-en-directo-gratis-por-internet/</sportsdevil>
+<sportsdevil>http://09stream.com/canal-de-casa-en-directo-gratis-online/</sportsdevil>
+<sportsdevil>http://vertutele.com/canal-de-casa-en-directo-gratis-online/</sportsdevil>
+<sportsdevil></sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
