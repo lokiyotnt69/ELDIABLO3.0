@@ -19,6 +19,46 @@
 </item>
 
 
+<item>
+<title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]La Cuatro[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres><page>http://livesports.pw/embedn.php?file=lacuatro&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex><thumbnail>http://www.thelogodb.com/images/media/logo/ysytyr1433882117.png/medium</thumbnail>
+<fanart></fanart>
+</item>
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Tele 5[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embedn.php?file=telecinco&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar></regex><thumbnail>http://www.thelogodb.com/images/media/logo/wptuww1441658169.png/medium</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]13 Tv[/I][/B][/COLOR]</title>
+<link>http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ=<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wrutwy1441657246.png/medium</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Mega tv[/I][/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8<link>
+<thumbnail>http://hispanicprwire.com/wp-content/uploads/importacion/17/17649_logo_1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Laotra[/I][/B][/COLOR]</title>
+<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8<link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IPP15AtiVJMoD_7_edVBcemUs26ptL1jkRun2yfPNxuREHbB49Bjqg</thumbnail>
+<fanart></fanart>
+</item>
+
 
 
 
