@@ -123,7 +123,7 @@
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/documentales.xml</externallink>	
 </item> 
 		
  <item> 
@@ -134,19 +134,14 @@
 <externallink></externallink>	
 </item> 
 		
- 
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DOCUMENTALES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
+
 		
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MANTENIMIENTO [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>
+
+</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/mantenimiento.xml</externallink>	
 </item> 		
