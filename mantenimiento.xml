@@ -2,8 +2,28 @@
 
 
 
+
+
 <item>
-<title>[COLOR lime][B]Canales Deportivos[/B][/COLOR] [I][COLOR violet](Actualizado 29-07-2017)[/COLOR][/I]</title>
+<title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Antena 3 séries[/I][/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8<link>
+<thumbnail>http://i65.tinypic.com/168zkvs.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]La Sexta [/I][/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtvvpp1441660359.png/medium</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lime][B]Canales Deportivos[/B][/COLOR] [I][COLOR violet](Actualizado 08-07-2017)[/COLOR][/I]</title>
 <link>http://ignoreme</link>
 <externallink>http://addons.kodipro.org/series/deportes%20activos19-04-2017.xml</externallink>
 <thumbnail></thumbnail>
