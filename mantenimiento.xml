@@ -61,6 +61,42 @@
 
 
 
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Galiza tv[/I][/B][/COLOR]</title>
+<link>http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36<link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tpwpqr1435103663.png/medium</thumbnail>
+<fanart></fanart></item>
+
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Andalucia Tv[/I][/B][/COLOR]</title>
+<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8<link>
+<thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png</thumbnail>
+<fanart></fanart></item>
+
+
+<item><item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Canal Estremadura[/I][/B][/COLOR]</title>
+<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8?DVR&bitrate=800<link>
+<thumbnail>http://cinestrenostv.tv/img/extremaduratv.png</thumbnail><fanart></fanart></item>
+
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Aragon Tv[/I][/B][/COLOR]</title>
+<link>http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8<link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest?cb=20151111060221</thumbnail>
+<fanart></fanart></item>
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Asturias Tv[/I][/B][/COLOR]</title>
+<link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36<link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/0/0b/A7_logo_2009.jpg/revision/latest?cb=20110714183715</thumbnail>
+<fanart></fanart></item>
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Castilla la Mancha Tv[/I][/B][/COLOR]</title>
+<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36<link>
+<thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Andorra Tv[/I][/B][/COLOR]</title><link>http://194.158.80.31:443/live/rtva/playlist.m3u8<link><thumbnail>http://upload.wikimedia.org/wikipedia/ca/thumb/c/ca/AndorraTV_logo2005.png/300px-AndorraTV_logo2005.png</thumbnail><fanart></fanart></item><item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]8 Tv[/I][/B][/COLOR]</title><link>http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36<link><thumbnail>http://www.grupogodo.com/wp-content/uploads/2016/07/8tvlogo.jpg</thumbnail><fanart></fanart></item><item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Intereconomia[/I][/B][/COLOR]</title><link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36<link><thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/66/Intereconomia-tv.png/revision/latest?cb=20130127193937</thumbnail><fanart></fanart></item><item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Illes Balears Tv[/I][/B][/COLOR]</title><link>http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36<link><thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Mosca_IB3_fondo_blanco.jpg</thumbnail><fanart></fanart></item>
+
 
 <item>
 <title>[COLOR lime][B]Canales Deportivos[/B][/COLOR] [I][COLOR violet](Actualizado 08-07-2017)[/COLOR][/I]</title>
