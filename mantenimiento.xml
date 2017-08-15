@@ -5517,6 +5517,15 @@ item>
  
  
  
+  <item>
+<title>[COLOR red][COLOR red][B]• [/B] [/COLOR][B] *** [/B][/COLOR]</title>
+<link>http://MENU.me</link>
+<externallink><jsonrpc>plugin://plugin.video.pelisalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkNpbmVmb3giLCAKICAgICJjaGFubmVsIjogImNpbmVmb3giLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vbWVkaWEudHZhbGFjYXJ0YS5pbmZvL3BlbGlzYWxhY2FydGEvc3F1YXJlcy9jaW5lZm94LnBuZyIsIAogICAgInRpdGxlIjogIkNpbmVmb3giLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc></externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
+ 
+ 
 </channels>
 
     <name>[COLOR  lawngreen][B][/B]WEB[/COLOR][B][COLOR red]SERVERS[/B][/COLOR]</name>
