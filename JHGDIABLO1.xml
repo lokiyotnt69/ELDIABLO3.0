@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item>
+<title>[COLOR yellow]                             Canales JHG & DIABLO En Directo[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Movistar Series Xtra[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=mxtra&amp;width=100%&amp;height=100%</page>
+<cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/250px-Movistar_Xtra.svg.png</thumbnail>
+<fanart></fanart></item><item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Movistar Estrenos[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embedn.php?file=mestrenos&amp;width=100%&amp;height=100%</page>
+<cookieJar></cookieJar></regex><thumbnail>http://09stream.com/img/estrenos.png</thumbnail><fanart></fanart></item>
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Movistar Action[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embedn.php?file=accion&amp;width=100%&amp;height=100%</page>
+<cookieJar></cookieJar></regex><thumbnail>http://09stream.com/img/accion.png</thumbnail><fanart></fanart></item>
+<item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Movistar Comedia[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex>
+<name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=mcomedia&amp;width=100%&amp;height=100%</page>
+<cookieJar></cookieJar></regex><thumbnail>http://09stream.com/img/comedia.png</thumbnail><fanart>
+</fanart></item><item><title>[COLOR lime]JHGMASTER>[COLOR=cyan][B][I]Movistar DCine[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embedn.php?file=dicneesp&amp;width=100%&amp;height=100%</page>
+<cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/2000px-Movistar_DCine.svg.png</thumbnail>
+<fanart></fanart></item>
