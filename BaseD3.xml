@@ -19,14 +19,6 @@
 
 
 <item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LISTA JHG3  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/movistarjhg</externallink>	
-</item> 
-
-<item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] JHGyDIABLO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/Vj6tXUY.jpg</thumbnail>
@@ -34,14 +26,17 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/JHGDIABLO1.xml</externallink>	
 </item> 
 
+   <item>
+<title>[B][COLOR aquamarine]AV01[/COLOR][COLOR lightyellow] LA LIGA ESPAÑA [/B][/COLOR]  [COLOR white] Acestream [/COLOR]  </title>
+<link>plugin://program.plexus/?url=b6041d93d129acd512e87a603655753adf8546db&amp;mode=1&amp;name=Adryanlist</link>
+	 <thumbnail>http://adryanlist.org/adryan/img/acestreams.jpg</thumbnail>
+<info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
 
 <item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV DIGITAL  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LA LIGA [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/K7WtFkL.jpg</thumbnail>
-<fanart>http://i.imgur.com/K7WtFkL.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/zonamovistardiablo.xml</externallink>	
-</item> 
+<thumbnail></thumbnail>
+<link>plugin://program.plexus/?url=b6041d93d129acd512e87a603655753adf8546db&amp;mode=1&amp;name=JHGMASTER</link>
 
 
 <item> 
