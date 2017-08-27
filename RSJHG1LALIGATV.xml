@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+     <item> 
+            <title>LaLiga TV Bar ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
+        </item>
+		 <item> 
+            <title>beINSport LaLiga HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport LaLiga HD ES</link> 
+        </item> 
+		
+		
+<item>
+<title>[COLOR blue]JHG[/COLOR]IPTV [COLOR cyan]SERVER 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue]JHG[/COLOR]IPTV - [COLOR lime][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=[COLOR blue]JHG[/COLOR] IPTV - [makelist.param1]</link>
+<thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Spain-Flag-icon.png</thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<cookieJar></cookieJar>
+<thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Spain-Flag-icon.png</thumbnail>
+<fanart></fanart>
+</regex>
+<info></info>
+</item>
