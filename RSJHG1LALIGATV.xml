@@ -30,3 +30,91 @@
 </regex>
 <info></info>
 </item>
+
+
+
+
+	<item>
+<title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]VerLiga 01[/COLOR][COLOR white][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0&amp;Referer=http://www.verliga.net/live/verliga1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.verliga.net/live/verliga1.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/deportes.png</thumbnail>
+<info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info>
+
+
+</item>
+
+
+  <item> 
+            <title>DEPORTES DE ADRYANLIST</title> 
+            <link>LOS LINKS PERTENECEN A MI AMIGO ADRYAN!!</link> 
+        </item>
+ 
+ 
+  <item>
+<title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Revo 01 * * [/COLOR][COLOR white][I]  [/I][/COLOR]</title>
+  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.ucaster.me/membedplayer/$doregex[canal]/1/750/420</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.ucaster.me</referer>
+			</regex> 
+			<regex>
+			<name>hls</name>
+			<expres>hlsUrl \+ \(\"(.*?)"</expres>
+			<page>http://www.ucaster.me/membedplayer/$doregex[canal]/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.ucaster.me</referer>
+			</regex>
+			<regex>
+			<name>canal</name>
+			<expres>channel='(.*?)'</expres>
+			<page>http://revolucionariostv.eu/elitegol/Repros/c1.php</page>
+			</regex>	
+ <thumbnail>http://adryanlist.org/adryan/img/deportes.png</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
+
+ 
+  
+   <item>
+<title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]Revo 02 * * [/COLOR][COLOR white][I]  [/I][/COLOR]</title>
+  <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.pubucaster.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.ucaster.me/membedplayer/$doregex[canal]/1/750/420</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.ucaster.me</referer>
+			</regex> 
+			<regex>
+			<name>hls</name>
+			<expres>hlsUrl \+ \(\"(.*?)"</expres>
+			<page>http://www.ucaster.me/membedplayer/$doregex[canal]/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.ucaster.me</referer>
+			</regex>
+			<regex>
+			<name>canal</name>
+			<expres>channel='(.*?)'</expres>
+			<page>http://revolucionariostv.eu/elitegol/Repros/c2.php</page>
+			</regex>	
+ <thumbnail>http://adryanlist.org/adryan/img/deportes.png</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
+
+
