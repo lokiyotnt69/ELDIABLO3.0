@@ -25,6 +25,15 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/RSJHG1LALIGATV.xml</externallink>	
 </item> 	
 
+	
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] ARENAVISION [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/eiKfGdP.jpg</thumbnail>
+<fanart>http://i.imgur.com/eiKfGdP.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] MOVISTAR [/COLOR][COLOR orange] 1 [/COLOR][COLOR  yellow]  _**_ [/COLOR] </title>
 <link>http://Ignoreme</link>
@@ -67,22 +76,6 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/DEPORTESJHGMASTER.xml</externallink>	
 </item>
 
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/Sy34OJp.jpg</thumbnail>
-<fanart>http://i.imgur.com/Sy34OJp.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Baseseries1.xml</externallink>	
-</item> 
-
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/kTfrP4w.jpg</thumbnail>
-<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/zonacine.xml</externallink>	
-</item> 
-	
 	
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] AMIGOS [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
@@ -102,7 +95,7 @@
 		
 <item> 
 <parentalblock>true</parentalblock>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO off[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/vbA4T3d.jpg</thumbnail>
 <fanart>http://i.imgur.com/vbA4T3d.jpg</fanart>
@@ -163,12 +156,28 @@
 		
 
 <item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LATINA [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LATINA off[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/S5p4PTp.jpg</thumbnail>
 <fanart>http://i.imgur.com/S5p4PTp.jpg</fanart>
 <externallink></externallink>	
 </item> 
 			
+	
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/Sy34OJp.jpg</thumbnail>
+<fanart>http://i.imgur.com/Sy34OJp.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Baseseries1.xml</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/kTfrP4w.jpg</thumbnail>
+<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/zonacine.xml</externallink>	
+</item> 
 		
 		
