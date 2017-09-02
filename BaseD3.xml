@@ -164,7 +164,8 @@
 </item> 		
 		
 
-<item> 
+<item>
+<parentalblock>true</parentalblock> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LATINA off[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/S5p4PTp.jpg</thumbnail>
@@ -174,6 +175,7 @@
 			
 	
 <item> 
+<parentalblock>true</parentalblock>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/Sy34OJp.jpg</thumbnail>
@@ -182,6 +184,7 @@
 </item> 
 
 <item> 
+<parentalblock>true</parentalblock>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/kTfrP4w.jpg</thumbnail>
