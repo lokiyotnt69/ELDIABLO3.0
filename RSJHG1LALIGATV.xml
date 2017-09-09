@@ -2,12 +2,12 @@
 
 
      <item> 
-            <title>LaLiga TV Bar ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
+            <title>*LaLiga TV Bar ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://142.4.218.121:25461/live/Asia_package/12345/5449.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
         </item>
 		 <item> 
             <title>beINSport LaLiga HD ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/julia/julia/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport LaLiga HD ES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://142.4.218.121:25461/live/Asia_package/12345/5442.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport LaLiga HD ES</link> 
         </item> 
 		
 		
