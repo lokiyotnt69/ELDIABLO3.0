@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-[COLOR yellow]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR yellow]  _**_[/COLOR]
 
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] CAMARAS 29 PAISES DEL MUNDO [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR red] CAMARAS 29 PAISES DEL MUNDO[/COLOR] [COLOR white](CLICAR AQUI)[/COLOR]</title>
 <link>$doregex[list]</link>
 <thumbnail></thumbnail>
 <regex>
@@ -52,9 +51,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.skylinewebcams.com[li
 <thumbnail>http://www.linkupinternet.com.ar/linkup2/wp-content/uploads/2017/03/3.jpg</thumbnail>
 <fanart>http://www.masingenieros.com/wp-content/uploads/2014/12/avion-despegando-de-la-pista-en-el-aeropuerto.jpg</fanart>
 </item> 
-
-
-
  
  
  
@@ -66,9 +62,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.skylinewebcams.com[li
 <externallink>https://pastebin.com/raw/nBZ2SCVW</externallink>
 </item>
  
- 
- 
- 
+  
  
 
 
@@ -81,11 +75,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.skylinewebcams.com[li
 </item>
 
 
-
-
-
- 
- 
  
  
  
