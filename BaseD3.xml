@@ -59,13 +59,6 @@
 </item> 
 
 	
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LA LIGA [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/QtdWO3K.jpg</thumbnail>
-<fanart>http://i.imgur.com/QtdWO3K.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/RSJHG1LALIGATV.xml</externallink>	
-</item> 	
 	
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] ARENAVISION [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
@@ -213,15 +206,6 @@
 </item> 		
 		
 
-<item>
-<parentalblock>true</parentalblock> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LATINA off[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/S5p4PTp.jpg</thumbnail>
-<fanart>http://i.imgur.com/S5p4PTp.jpg</fanart>
-<externallink></externallink>	
-</item> 
-			
 	
 <item> 
 <parentalblock>true</parentalblock>
@@ -240,14 +224,7 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/zonacine.xml</externallink>	
 </item> 
 		
-				
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] NEYMAR[/COLOR][COLOR  yellow] _**_[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/NEYMAR.xml</externallink>
-</item>
+
 		
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MAGELLAN [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
@@ -263,4 +240,35 @@
 <jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item
+</item>
+
+<!-----			
+
+
+
+
+<item>
+<parentalblock>true</parentalblock> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LATINA off[/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/S5p4PTp.jpg</thumbnail>
+<fanart>http://i.imgur.com/S5p4PTp.jpg</fanart>
+<externallink></externallink>	
+</item> 
+			
+	
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] NEYMAR[/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/NEYMAR.xml</externallink>
+</item>
+	
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LA LIGA [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/QtdWO3K.jpg</thumbnail>
+<fanart>http://i.imgur.com/QtdWO3K.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/RSJHG1LALIGATV.xml</externallink>	
+</item> 
