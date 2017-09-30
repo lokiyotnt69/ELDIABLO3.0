@@ -3,305 +3,384 @@
 
 
 
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: 24 HORAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8537.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24 HORAS </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8536.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&E </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8535.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: AMC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8534.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: ANTENA 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8533.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3 HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: AXN WHITE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8532.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: BABY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8531.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BABY TV </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: BAR.A TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8530.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BAR.A TV </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: BEIN LALIGA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8529.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LALIGA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: BEIN LALIGA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8528.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LALIGA HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: BOING</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8527.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BOING </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CALLE 13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8526.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13 </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CANAL COCINA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8525.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL COCINA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CANAL DECASA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8524.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DECASA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CANAL ODISEA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8523.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL ODISEA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CAZA Y PESCA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8522.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CAZA Y PESCA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CLAN  TVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8521.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CLAN  TVE </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: COMEDY CENTRAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8520.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: COSMO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8519.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CRIMEN INVES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8518.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CRIMEN INVES </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CUATRO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8517.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: CUATRO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8516.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: DISCOVERY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8515.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: DISNEY CH.</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8514.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY CH. </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: DISNEY JR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8513.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JR </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: DISNEY XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8512.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: DIVINITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8511.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DIVINITY </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: ENERGY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8510.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ENERGY </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: EUROSPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8509.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT 1 </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: FDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8508.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8507.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8506.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: FOX LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8505.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: FOX NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8504.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX NEWS </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: GOL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8503.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: HISTORIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8502.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8501.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: HOLLYWOOD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8500.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: IBERALIA TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8499.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: IBERALIA TV </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: LA 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8498.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: LA 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8497.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2 </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: LA SEXTA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8496.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: LA SEXTA HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8495.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: LA7d</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8494.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA7d </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: LTC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8493.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LTC </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. ACCION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8491.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ACCION </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. ACCIÂ©N HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8492.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ACCIÂ©N HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. Cine Espanol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8490.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. Cine Espanol </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. COMEDIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8489.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. COMEDIA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. DCINE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8488.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DCINE </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. DCINE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8487.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DCINE HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. DEP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8486.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DEP 1 </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. ESTRENOS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8485.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ESTRENOS </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. F.TBOL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8484.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. F.TBOL </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. F.TBOL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8483.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. F.TBOL HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. GOLF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8482.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. GOLF </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. MOTOGP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8481.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. MOTOGP </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. SERIESXTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8480.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SERIESXTRA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M. XTRA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8479.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. XTRA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M.FORMULA1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8478.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.FORMULA1 </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M.FORMULA1HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8477.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.FORMULA1HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: M.MOTO GP HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8476.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.MOTO GP HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: MTV ESPANA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8475.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV ESPANA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: NAT GEO WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8474.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: NAT GEOGRAPH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8473.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEOGRAPH </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: NONSTOPEOPLE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8472.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NONSTOPEOPLE </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: NOVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8471.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: PLAYBOY TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8470.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PLAYBOY TV </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8469.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: TCM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8468.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: TELECINCO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8467.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: TELECINCO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8466.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: TELEDEPORTE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8465.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELEDEPORTE </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: TNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8464.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT </link>
-</item>
-<item>
-<title>[COLOR red][B]JHG[/COLOR][COLOR green]MASTER[/B][/COLOR]ES: VIAJAR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/8463.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIAJAR </link>
-</item>
 
-
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: SYFY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3473.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: TVN Chile HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TVN Chile HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: TV Galicia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TV Galicia </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Teleticino</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3558.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Teleticino </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 9</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 9 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 8</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 8 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 7</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 7 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 6</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 6 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 5 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 4 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3573.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 3 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3572.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 2 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 10</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 10 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Taquilla 1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3571.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Taquilla 1 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Sport CDO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3594.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Sport CDO HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Real Madrid</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3595.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Real Madrid </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Nat Geo Wild</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nat Geo Wild </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Movies Star Moto Gp</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3597.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Movies Star Moto Gp </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Movie Star F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3598.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Movie Star F1 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: ITV HD Chile</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3566.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ITV HD Chile </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: History HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3562.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: History HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Discovery Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3560.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Discovery Channel </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Cosmo</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3568.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cosmo </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Chile La Red</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3565.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Chile La Red </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: CBN en Espaol</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3599.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CBN en Espaol </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Cartoon Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3559.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cartoon Network </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal Sevilla</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3584.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Sevilla </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal Musica</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3585.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Musica </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal De Las Estrellas</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal De Las Estrellas </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal Costa</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Costa </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]ES: Canal Cocina</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Cocina </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal Baby</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3583.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Baby </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal 7 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3589.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 7 HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal 41 Mar Del</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 41 Mar Del </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3588.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 3 HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3587.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 2 HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal 13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3590.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 13 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Blica Dominicana</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3586.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Blica Dominicana </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Bein Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3591.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Bein Sports HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Azteca Noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3567.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Azteca Noticias </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Anime TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3569.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Anime TV </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Andalucia TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3596.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Andalucia TV </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: 360 TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3592.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 360 TV </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: 3/24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3593.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 3/24 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3476.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ DCINE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3494.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ DCINE </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. XTRA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3478.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. Series</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3479.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Series </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. FUTBOL HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3489.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. FUTBOL HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. DCINE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3481.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: AXN HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3482.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP/La: TELEVISA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/2686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP/La: TELEVISA HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Teledeporte</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Teledeporte </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: LA 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 2 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: LA 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1 HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Barca TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/2684.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Barca TV </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: TNT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: TCM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: NOVA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NOVA </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: NICKELODEON</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICKELODEON </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: NICK JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1590.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICK JUNIOR </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: NATIONAL GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1591.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NATIONAL GEOGRAPHIC </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: La Sexta HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1571.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: LA SEXTA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA SEXTA </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: HISTORIA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HISTORIA </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1596.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Fdf</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1572.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fdf </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Energy</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1574.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Energy </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: DISNEY XD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1598.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY XD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: DISNEY JUNIOR</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY JUNIOR </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: DISNEY CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1600.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY CHANNEL </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. CINE ESPANOL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. CINE ESPANOL </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: CUATRO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CUATRO </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: COMEDY CENTRAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1603.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COMEDY CENTRAL </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: CAZA Y PESCA HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CAZA Y PESCA HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: HWD HOLLYWOOD HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1605.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HWD HOLLYWOOD HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ Series Xtra</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1608.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ Series Xtra </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. Series HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1609.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Series HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ Liga</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1575.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ Liga </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: CANAL+ HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL+ HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ GOLF</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1611.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ GOLF </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. Deportes</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Deportes </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Atreseries HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Atreseries HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ Comedia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ Comedia </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ ACCION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ ACCION </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ TOROS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1607.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ TOROS </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal+ Estrenos</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal+ Estrenos </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Canal Deportes HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Deportes HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: CALLE 13</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CALLE 13 </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Boing</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1579.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Boing </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: AXN WHITE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN WHITE </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: AXN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: Antena 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1580.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3 HD </link>
+</item>
+<item>
+<title>[COLOR red][B]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR]SP: M. Futbol</title>
+<link>plugin://plugin.video.f4mTester/?url=http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3538.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. Futbol </link>
+</item>
