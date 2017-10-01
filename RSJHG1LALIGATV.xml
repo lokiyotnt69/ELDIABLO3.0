@@ -5,6 +5,13 @@
 
 
 
+
+<item>
+<title>BEIN SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS </link>
+</item>
+
+
 	<item>
 <title>[COLOR deepskyblue]Multicanal[/COLOR] [COLOR lightblue]VerLiga 01[/COLOR][COLOR white][I]  [/I][/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0&amp;Referer=http://www.verliga.net/live/verliga1.php</link>
