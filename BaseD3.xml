@@ -5,7 +5,7 @@
 
 	
 <item>
-<title>[COLOR red][/COLOR][COLOR orange] Novedades  ZONA MOVISTAR DIABLO Y AUTONOMICAS. RECIEN SUBIDAS. [/COLOR][COLOR skyblue] [/COLOR][COLOR red][/COLOR]</title>
+<title>[COLOR red][/COLOR][COLOR orange] Novedades  PROXIMAMENTE NOVEDADES [/COLOR][COLOR skyblue] [/COLOR][COLOR red][/COLOR]</title>
 <link>http://Ignoreme</link>
 </item>
 	
@@ -21,8 +21,8 @@
 <item> 
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/iVfvshN.jpg</thumbnail>
+<fanart>https://i.imgur.com/iVfvshN.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/lista26</externallink>	
 </item> 
 
@@ -207,13 +207,6 @@
 </item> 
 	
 		
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MANTENIMIENTO [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/SYV4FNM.jpg</thumbnail>
-<fanart>http://i.imgur.com/SYV4FNM.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/mantenimiento.xml</externallink>	
-</item> 		
 		
 	
 <item> 
@@ -242,13 +235,6 @@
 </item> 
 		
 
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] MOVISTAR [/COLOR][COLOR orange] DIABLO : NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/iVfvshN.jpg</thumbnail>
-<fanart>http://i.imgur.com/iVfvshN.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/listtaespain.xml</externallink>	
-</item> 
 
 		
 <item>
@@ -267,6 +253,14 @@
 <fanart></fanart>
 </item>
 
+		
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MANTENIMIENTO [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/SYV4FNM.jpg</thumbnail>
+<fanart>http://i.imgur.com/SYV4FNM.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/mantenimiento.xml</externallink>	
+</item> 
 <!-----			
 
 <item> 
@@ -277,6 +271,14 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/listtaespain.xml</externallink>	
 </item> 
 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] MOVISTAR [/COLOR][COLOR orange] DIABLO : NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/iVfvshN.jpg</thumbnail>
+<fanart>http://i.imgur.com/iVfvshN.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/listtaespain.xml</externallink>	
+</item> 
 
 <item>
 <parentalblock>true</parentalblock> 
