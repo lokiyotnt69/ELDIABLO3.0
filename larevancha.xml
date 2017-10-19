@@ -7,43 +7,79 @@
  
  
  
- 
-<channels>
- 
+
+
 <channel>
-      <name>[COLOR yellow]_**_ [/COLOR][COLOR skyskyblue]  TV+ TU TELE [/COLOR]  [COLOR yellow]_**_ [/COLOR]</name>
-  <thumbnail>http://i.imgur.com/aEEuLFy.jpg</thumbnail>
-<fanart>http://i.imgur.com/aEEuLFy.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/4ktN5Q8m</externallink>
+<name>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerCanalesTV.com[/I][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerCanalesTV.com[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerCanalesTV.com%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fvercanalestv.cfg%26definedIn%3dcustoms.cfg%26director%3dvercanalestv.com%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 </channel>
-  </channels>
- 
-  
-  
- 
- 
-<channels>
- 
+
 <channel>
-      <name>[COLOR yellow]_**_ [/COLOR][COLOR skyskyblue] DEPORTES [/COLOR]  [COLOR yellow]_**_ [/COLOR]</name>
-  <thumbnail>http://i.imgur.com/aEEuLFy.jpg</thumbnail>
-<fanart>http://i.imgur.com/aEEuLFy.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/2ZbuhcLY</externallink>
+<name>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerdirectoTv.net[/I][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerdirectoTv.net[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerDirectoTV.net%2b%2528TV%2bEspa%25C3%25B1a%2529%26url%3dcustoms%252Fverdirectotv.cfg%26definedIn%3dcustoms.cfg%26director%3dverdirectotv.net%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 </channel>
-  </channels>
 
 
 
-
- <channels>
- 
 <channel>
-      <name>[COLOR yellow]_**_ [/COLOR][COLOR skyskyblue]  PELICULAS [/COLOR]  [COLOR yellow]_**_ [/COLOR]</name>
-  <thumbnail>http://i.imgur.com/aEEuLFy.jpg</thumbnail>
-<fanart>http://i.imgur.com/aEEuLFy.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/TjPYaFwj</externallink>
+<name>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Verplusonline.com[/I][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Verplusonline.com[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerplusonline%2b%2528TeleFiveGB%2529%26url%3dcustoms%252Ftelefivegb.cfg%26definedIn%3dcustoms.cfg%26director%3dverplusonline.com%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 </channel>
-  </channels>
+
+
+<channel>
+<name>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR yellow][makelist.param2][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item> 
+
+</channel>
