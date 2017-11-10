@@ -5,7 +5,7 @@
 
 	
 <item>
-<title>[COLOR red][/COLOR][COLOR orange]  NOVIEMBRE NOVEDADES!! [/COLOR][COLOR skyblue] [/COLOR][COLOR red][/COLOR]</title>
+<title>[COLOR red][/COLOR][COLOR orange]  EN BREVE.... CERRAMOS... Y ABRIMOS NUEVA VERSION!!! [/COLOR][COLOR skyblue] [/COLOR][COLOR red][/COLOR]</title>
 <link>http://Ignoreme</link>
 </item>
 	
@@ -16,42 +16,23 @@
 <link>http://Ignoreme</link>
 </item>
 	
-
-<item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] ESPECIAL Velvet coleccion [/COLOR][COLOR yellow]_**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/SERIES/velvetcoleccion.xml</externallink>	
-</item> 	
 	
-		
+<item>
+<title>[COLOR white] MOTO GP  HD [/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/TnVuyuB.jpg</thumbnail>
+<fanart>https://i.imgur.com/TnVuyuB.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/motogp1.xml</externallink>
+</item>	
+	
+	
 <item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/proyectoJHGADryan.xml</externallink>	
+<thumbnail>http://i.imgur.com/kTfrP4w.jpg</thumbnail>
+<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/zonacine.xml</externallink>	
 </item> 
-	
-	
-	
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG2 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/baseretroordenado.xml</externallink>	
-</item> 
-		
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/iVfvshN.jpg</thumbnail>
-<fanart>https://i.imgur.com/iVfvshN.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/larevancha.xml</externallink>	
-</item> 
-
 	
 		
 	
@@ -64,6 +45,14 @@
 </item>		
 		
 		
+		
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MAGELLAN [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
+<externallink>http://pastebin.com/raw.php?i=wL2Jvyh8</externallink>
+</item>
 
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
@@ -197,24 +186,10 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Baseseries1.xml</externallink>	
 </item> 
 
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/kTfrP4w.jpg</thumbnail>
-<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/zonacine.xml</externallink>	
-</item> 
+
 		
 
 
-		
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MAGELLAN [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
-<externallink>http://pastebin.com/raw.php?i=wL2Jvyh8</externallink>
-</item>
 
 <item>
 <title>[COLOR white]SPORT365[/COLOR]</title>
